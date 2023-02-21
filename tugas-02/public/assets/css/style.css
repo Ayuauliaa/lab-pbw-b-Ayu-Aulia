@@ -1,0 +1,50 @@
+header{
+  padding: 1px;
+  text-align: center;
+  background: #bfd8d2;
+  color: rgb(127, 176, 163) ;
+  width:100 px;
+  margin-bottom:20px;
+}
+
+
+footer{
+  padding: 1px;
+  text-align: center;
+  background: #bfd8d2;
+  color: rgb(127, 176, 163);
+  position: fixed ;
+  width: 100%;
+  bottom: 0;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+  }
+
+th{
+  background-color: rgb(133, 173, 151);
+}
+
+.card{
+  margin: 0px 50px ;
+  float: right ;
+  padding : 0% 6% ;
+  border : 3px rgb(138, 162, 138) solid ;
+}
+
+header:hover{
+  color: rgb(139, 180, 139) ;
+}
+
+img{
+  width: 90px; 
+  float: right ;
+  padding : 4% 0% ;
+  align-items: center;
+}
+
+.card h1{
+  text-align: center;
+}
